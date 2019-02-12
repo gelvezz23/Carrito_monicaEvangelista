@@ -1,0 +1,67 @@
+[18-Apr-2016 19:11:03 America/New_York] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/modulext/public_html/carrito/compras.php on line 3
+[18-Apr-2016 19:11:03 America/New_York] PHP Warning:  include(../conexion.php): failed to open stream: No such file or directory in /home/modulext/public_html/carrito/compras.php on line 3
+[18-Apr-2016 19:11:03 America/New_York] PHP Warning:  include(): Failed opening '../conexion.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/modulext/public_html/carrito/compras.php on line 3
+[02-May-2016 12:21:42 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:21:42 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 12:21:42 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:21:42 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 12:22:47 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:22:47 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 12:22:47 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:22:47 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 12:24:19 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:24:19 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 12:24:19 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:24:19 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 12:34:54 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:34:54 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 12:34:54 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:34:54 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 12:38:03 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:38:03 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 12:38:03 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 12:38:03 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 13:57:26 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 13:57:26 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 13:57:26 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 13:57:26 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 15:24:51 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 15:24:51 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[02-May-2016 15:25:16 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[02-May-2016 15:25:16 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[03-May-2016 15:02:02 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[03-May-2016 15:02:02 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[03-May-2016 23:06:50 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[03-May-2016 23:06:50 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[03-May-2016 23:06:50 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[03-May-2016 23:06:50 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[03-May-2016 23:06:50 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[03-May-2016 23:06:50 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[03-May-2016 23:06:50 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[07-May-2016 20:44:49 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[07-May-2016 20:44:49 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[07-May-2016 20:44:49 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[09-Jun-2016 13:32:08 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[09-Jun-2016 13:32:08 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[09-Jun-2016 13:32:08 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[09-Jun-2016 16:14:11 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[09-Jun-2016 16:14:11 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[09-Jun-2016 16:14:11 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[09-Jun-2016 16:14:19 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[09-Jun-2016 16:14:19 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[09-Jun-2016 16:14:19 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[09-Jun-2016 16:14:25 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[09-Jun-2016 16:14:25 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[09-Jun-2016 16:14:25 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[20-Jun-2016 16:38:53 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[20-Jun-2016 16:38:53 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[20-Jun-2016 16:38:53 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[05-Jan-2017 08:48:24 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[05-Jan-2017 08:48:24 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[05-Jan-2017 08:48:24 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[10-Feb-2017 16:46:01 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[10-Feb-2017 16:46:01 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[10-Feb-2017 16:46:01 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
+[14-Feb-2017 18:48:04 America/New_York] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/modulext/public_html/carrito/comprasnn.php:1) in /home/modulext/public_html/carrito/comprasnn.php on line 2
+[14-Feb-2017 18:48:04 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 130
+[14-Feb-2017 18:48:04 America/New_York] PHP Warning:  mysql_error() expects parameter 1 to be resource, null given in /home/modulext/public_html/carrito/comprasnn.php on line 143
